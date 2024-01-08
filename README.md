@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cahogg
-- 👀 I’m interested in pursuing a career in programing.
-- 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on career oppurtunities.
+- 👀 I’m interested in pursuing a career in game dev.
+- 🌱 I’m currently working on projects in Godot 4.
+- 💞️ I’m looking to collaborate on projects in Godot 4.
 - 📫 How to reach me: My personal email: cahogg123@gmail.com
 
 <!---
